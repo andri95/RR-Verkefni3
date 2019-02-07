@@ -46,8 +46,9 @@ n = int(input("Hvað á strengurinn að vera langur? "))
 allarMogulegarEinn(stafir, n)
 ```  
 **a) Hversu margir möguleikar fyrir strengi af lengd n?**  
+P(26, n) / 2 eða (26 nPr 3) / 2
 **b) Flækjutími fallsins**  
-
+Er ekki alveg viss en ég myndi halda O(n). Munurinn á n = 3 og n = 4 er talsverður og á n = 5 mikið meiri.
 **5.**  
 ```python
 
