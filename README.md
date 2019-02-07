@@ -9,13 +9,13 @@ Flækjutími fallsins er O(2^n) þar sem þú þarft nákvæmlega 2^n - 1 aðger
 **3. Útskýrðu stuttlega tímaflækjurnar hér fyrir neðan og nefndu dæmi um reiknirit sem hafa flækjurnar.**  
   **a) O(n)**  
   Framkvæmir einfalda leit, ef n = 10 tekur forritið 10 tímaeiningar að klára.  
-  Dæmi: MergeSort
+  Dæmi: MergeSort  
   **b) O(n²)**  
   Ef n = 10 tekur forritið 100 tímaeiningar að klára þar sem 10 * 10 = 100.  
-  Dæmi: Selection Sort
+  Dæmi: Selection Sort  
   **c) O(log(n))**  
   Þýðir að reikniritið tekur í versta falli log(n) tíma að klára. Þ.e.a.s. Ef n er 100 tekur það 2 tímaeiningar þar sem log(100) er 2.  
-  Dæmi: QuickSort
+  Dæmi: QuickSort  
   
 **4.**  
 ```python
