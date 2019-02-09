@@ -51,7 +51,5 @@ P(26, n) / 2 eða (26 nPr 3) / 2
 Er ekki alveg viss en ég myndi halda O(n). Munurinn á n = 3 og n = 4 er talsverður og á n = 5 mikið meiri.  
 
 **5.**  
-```python
-
-```  
+Reyndi mikið við þennan lið án mikils árangurs. Fann enga leið til að taka outputtið úr fyrra fallinu inn í lista eða eitthvað álíka til að geta unnið með það. Hefði ef til vill getað gert fyrra fallið eitthvað öðruvísi til að létta mér lífið...
 
